@@ -1,0 +1,5 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "A minimalist and visually appealing Pomodoro Timer to help you focus on your tasks. Features customizable work, short break, and long break intervals.",
+  "requestFramePermissions": []
+}
